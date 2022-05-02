@@ -9,5 +9,5 @@
 
 ⚽ &nbsp;&nbsp; **Brazil Soccer Standings Historic** &nbsp;&nbsp; 🔗 &nbsp; [brasileirao.vercel.app](https://brasileirao.vercel.app) &nbsp;&nbsp; *NextJs, Axios, Context API deployed in vercel*
 
-💹 &nbsp;&nbsp; **Investments** &nbsp;&nbsp; 🔗 &nbsp; [https://https://srbarrigafiis.herokuapp.com//](https://https://srbarrigafiis.herokuapp.com//) &nbsp;&nbsp; *NextJs, Axios, alphavantage API to get Data, Mysql deployed in vercel*
+💹 &nbsp;&nbsp; **Investments** &nbsp;&nbsp; 🔗 &nbsp; [https://https://srbarrigafiis.herokuapp.com//](https://srbarrigafiis.herokuapp.com//) &nbsp;&nbsp; *NextJs, Axios, alphavantage API to get Data, Mysql deployed in vercel*
 
