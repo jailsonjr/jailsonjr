@@ -5,8 +5,5 @@
 
 - 🌱 I’m currently learning about these technologies: NodeJs, ReactJs, React Native, Typescript, APIs and Databases.
 
-## Recent Projects
-
-⚽ &nbsp;&nbsp; **Brazil Soccer Standings Historic** &nbsp;&nbsp; 🔗 &nbsp; [brasileirao.vercel.app](https://brasileirao.vercel.app) &nbsp;&nbsp; *NextJs, Axios, Context API deployed in vercel*
 
 
